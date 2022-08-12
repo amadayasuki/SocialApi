@@ -17,9 +17,9 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 Some screenshots of some of the API routes being tested.
 
-<img src= "" width="500px"/>
-<img src= "" width="500px"/>
-<img src= "" width="500px"/>
+<img src= "https://github.com/amadayasuki/SocialApi/blob/main/Screenshot1.png?raw=true" width="500px"/>
+<img src= "https://github.com/amadayasuki/SocialApi/blob/main/Screenshot%202.png?raw=true" width="500px"/>
+<img src= "https://github.com/amadayasuki/SocialApi/blob/main/Screenshot%203.png?raw=true" width="500px"/>
 
 ## Installation and Start Up
 
